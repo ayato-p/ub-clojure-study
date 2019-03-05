@@ -1,0 +1,29 @@
+* Clojure勉強会
+
+** 第1回
+
+*** 目次
+
+**** 何故、Emacsを勧めるのか
+
+**** Emacs+CIDERの構築
+
+***** Pareditの使い方
+
+http://www.daregada.sakuraweb.com/paredit_tutorial_ja.html
+
+**** 今日のお題
+
+***** ホットエントリの新着記事を取出す
+
+- 人気のホットエントリをすべてのカテゴリで抜き出す
+  - http://b.hatena.ne.jp/hotentry/{category}.rss
+    - all, general, social, economics, life, knowledge, it, fun, entertainment, game
+- タイトル、日付、URLをカテゴリ毎にCSV形式で吐き出す
+
+
+** 第2回
+
+*** 目次
+
+**** 前回のお題のおさらい
